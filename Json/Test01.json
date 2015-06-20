@@ -1,0 +1,8 @@
+{
+    "menu": [
+             {"name": "並盛", "price": 300, "kcal": 680},
+             {"name": "アタマの大盛", "price": 390, "kcal": 733},
+             {"name": "大盛", "price": 460, "kcal": 851},
+             {"name": "特盛", "price": 560, "kcal": 1022}
+             ]
+}
